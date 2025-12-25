@@ -1,3 +1,7 @@
-theme: jekyll-theme-cayman
 title: M.H. Kwok
-description: Professional Portfolio
+description: Programmer | Hong Kong
+theme: jekyll-theme-minimal
+
+github_username: mankwok
+# Note: Minimal theme doesn't have a native 'linkedin' variable, 
+# so we usually add that link directly in the README.md content.
